@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Fansing Wong
 
-<!--
-**fansing-wong/fansing-wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software engineering with a focus on mobile security,
+local data protection, and performance optimization.
 
-Here are some ideas to get you started:
+## What I'm working on
+- A course planner that demonstrates graph algorithms
+- Reproducible performance experiments with C++ and Python
+- Learning how Android apps store and protect local data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current tools
+Python · C · C++17 · Git
+
+## Featured project
+- [Course Planner]
