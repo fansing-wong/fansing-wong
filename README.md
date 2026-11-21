@@ -11,3 +11,4 @@ I'm exploring software engineering through coursework and personal projects, wit
 - Python and C — learning and practicing
 - C++17 — used in my course planner project
 
+## Featured project
